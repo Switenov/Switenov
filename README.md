@@ -3,7 +3,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Nova</h1></summary>
+    <summary><h1 style="display: inline-block">Hi</h1></summary>
   </ul>
 </div>
 <!--h2 without bottom border-->
@@ -12,7 +12,54 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
+
+
+
+<table><thead><tr><th>Repository Activity Trends</th><th>Collaborative Productivity - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Star Geographic Distribution</th><th>Star History</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
 <!--Intro start-->
+
+
+
 <ul>
 <li>
 <p> I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
