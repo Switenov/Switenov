@@ -23,9 +23,6 @@
 <li>
 <p> I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
 </li>
-<li>
-<p> Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
-</li>
 </ul>
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
