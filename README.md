@@ -3,19 +3,6 @@
 <a href="https://guns.lol/switenov">
   <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
 </h4>
-<h2 id="introduction">Introduction</h2>
-<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
-<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
-<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
-<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
-
-
-
-
-
-
-
-
 
 
 
