@@ -1,6 +1,6 @@
-  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+  <h1 align="center">👁️</h1>
 <div align="center">
-<a href="https://ossinsight.io">
+<a href="https://guns.lol/switenov">
   <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
 </a></div><a href="https://ossinsight.io">
 </a><h4 align="center"><a href="https://ossinsight.io">
