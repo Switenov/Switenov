@@ -38,6 +38,6 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
 <br clear="all" />
 
-<br>
+<p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/PRX.png?cachebust=1" alt="TryHackMe Badge"/>
-</br>
+</p>
