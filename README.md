@@ -30,7 +30,7 @@ The rules are written in packets, and I read between the lines.
 | Incident Response & Host Recon                   | [Takedown](https://tryhackme.com/room/takedown) |
 
 ---
-
+<pre>
 ## Tools of the Trade
 
 #### Network & Recon
@@ -111,7 +111,7 @@ The rules are written in packets, and I read between the lines.
   <img src="https://img.shields.io/badge/-Sherlock-5F3A5A?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-
+</pre>
 
 ## Final Message
 
