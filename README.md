@@ -39,7 +39,6 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/ohsint.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/firstfour.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
-</br>
 </br clear="all" />
 
 <hr style="margin-top: 40px; margin-bottom: 20px;" />
