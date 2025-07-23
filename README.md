@@ -3,8 +3,8 @@
 **`Senior Pentester, Security Auditor & Malware Analysis ㅤ`**
 
 i exploit systems so others can sleep at night.  
-top 1% @ TryHackMe — i don’t build walls, i test if they break.  
-no buzzwords. no fluff. just packets, payloads, persistence.  
+top 1% @ TryHackMe
+no buzzwords. no fluff. just packets, payloads, persistence.
 
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
