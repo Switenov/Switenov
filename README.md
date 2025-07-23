@@ -1,4 +1,17 @@
-
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+<pre>
 # Hello, Friend.
 
 I'm PLXVST
@@ -28,3 +41,6 @@ The rules are written in packets, and I read between the lines.
 | Adversary Simulation / Red Team Tactics          | [Anonymous Playground](https://tryhackme.com/room/anonymousplayground) |
 | Terminal Navigation & Scripting                  | [Frosteau Busy with Vim](https://tryhackme.com/room/busyvimfrosteau) |
 | Incident Response & Host Recon                   | [Takedown](https://tryhackme.com/room/takedown) |
+
+
+  </pre>
