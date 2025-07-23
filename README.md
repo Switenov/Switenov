@@ -34,6 +34,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/blue.svg" />
 <img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/webbed.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/ohsint.svg" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/firstfour.svg" />
 <br />
 
 #
