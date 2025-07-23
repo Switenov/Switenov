@@ -8,8 +8,7 @@
 ---
 
 ## Whoami
-I'm PRX.  
-I break things so others stay safe.  
+I'm PRX/PLXVST
 Not here for fame. Just results.
 Senior Pentester, Security Auditor, and Malware Analyst in the making.   
 
@@ -56,36 +55,10 @@ The rules are written in packets, and I read between the lines.
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
----
-
-## Certs & Achievements
-
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-> TryHackMe Top 1%  
-> Advent of Cyber Conqueror  
-> League Climber – Always First
-
----
-
-## Projects
-
-- **Detection Lab** – Simulated SOC threat environment  
-- **SOC Automation** – Using TheHive + Shuffle SOAR  
-- **Advent of Cyber** – Yearly pwnage tradition
-
----
 
 ## Final Message
 
-> _"They watch from the shadows. I watch deeper."_   
-> Maybe it's time to exploit it.
+> _"Goodbye, Friend"_   
 
 ---
 
