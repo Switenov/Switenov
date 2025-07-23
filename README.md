@@ -1,3 +1,9 @@
+
+<p>
+  <img src="https://i.pinimg.com/736x/f3/08/64/f3086411d4911da2a17e506ec2ea81d5.jpg" alt="banner" style="border-radius: 10px;" />
+</p>
+
+
 # Hello, Friend.
 
 I'm PRX/PLXVST
@@ -17,12 +23,6 @@ The rules are written in packets, and I read between the lines.
 </a>
 
 ---
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/f3/08/64/f3086411d4911da2a17e506ec2ea81d5.jpg" alt="banner" style="border-radius: 10px;" />
-</p>
-
 
 ## Skills
 
