@@ -11,9 +11,8 @@
 ## Whoami
 I'm PRX.  
 I break things so others stay safe.  
-Top 1% on TryHackMe.  
-Senior Pentester, Security Auditor, and Malware Analyst in the making.  
-I don’t chase titles—I chase flags.  
+Not here for fame. Just results.
+Senior Pentester, Security Auditor, and Malware Analyst in the making.   
 
 ---
 
