@@ -4,8 +4,9 @@
 
 <a href="https://tryhackme.com/p/PRX"><img src="https://img.shields.io/badge/-TryHackMe%20Profile-darkred?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://instagram.com/prx.hacks">
-  <img src="https://img.shields.io/badge/-Instagram_Profile-darkred?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Instagram_Profile-black?&style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
+
 
 
 ---
