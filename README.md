@@ -17,7 +17,8 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 
 
 ### THM Achivments 
-<br>
+
+<br clear="all" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
 <img align="left"  width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-gold.svg" />
@@ -35,7 +36,7 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/ohsint.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/firstfour.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
-<br />
+<br clear="all" />
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/PRX.png?cachebust=1" alt="TryHackMe Badge"/>
