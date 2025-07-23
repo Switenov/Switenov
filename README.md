@@ -42,7 +42,7 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 
 <br clear="left"/>
 
-<div style="margin-top:40px;"></div>
+<div style="margin-top:40px;margin-bottom: 20px"></div>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/08/b5/d3/08b5d3d8fa6e372406f51f950558487c.jpg" style="width:100%; height:auto;" />
