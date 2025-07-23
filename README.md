@@ -14,7 +14,6 @@ I break things so others stay safe.
 Top 1% on TryHackMe.  
 Senior Pentester, Security Auditor, and Malware Analyst in the making.  
 I don’t chase titles—I chase flags.  
-> Welcome to my sandbox.
 
 ---
 
@@ -29,12 +28,11 @@ The rules are written in packets, and I read between the lines.
 
 | Skill                                         | Associated Project            |
 |-----------------------------------------------|-------------------------------|
-| SIEM & Log Analysis                           | [Detection Lab](https://google.com) |
-| Network Monitoring & Attack Detection         | [Detection Lab](https://google.com) |
-| Security Automation (SOAR)                    | SOC Automation Lab            |
-| Incident Response & Forensics                 | SOC Automation Lab            |
-| Threat Mitigation via Scripting               | SOC Automation Lab            |
-| Case Management & Coordination                | SOC Automation Lab            |
+| Active Directory Exploitation                    | [Crocc Crew](https://tryhackme.com/room/crocccrew) |
+| CTF Strategy / Mixed Challenge Handling          | [CCT2019](https://tryhackme.com/room/cct2019) |
+| Adversary Simulation / Red Team Tactics          | [Anonymous Playground](https://tryhackme.com/room/anonymousplayground) |
+| Terminal Navigation & Scripting                  | [Frosteau Busy with Vim](https://tryhackme.com/room/busyvimfrosteau) |
+| Incident Response & Host Recon                   | [Takedown](https://tryhackme.com/room/takedown) |
 
 ---
 
