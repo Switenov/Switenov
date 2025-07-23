@@ -1,6 +1,6 @@
 # PRX
 
-**`Security Researcher / Digital Intrusion Artist`**
+**`Senior Pentester, Security Auditor & Malware Analysis ㅤ`**
 
 i exploit systems so others can sleep at night.  
 top 1% @ TryHackMe — i don’t build walls, i test if they break.  
