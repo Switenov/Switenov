@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 🧰 Languages and Tools
+### THM Achivments 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
