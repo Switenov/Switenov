@@ -15,12 +15,6 @@ no buzzwords. no fluff. just packets, payloads, persistence.
   <a href="https://instagram.com/prx.hacks">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-black?&style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="https://github.com/PLXVST?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/PLXVST?color=gray&label=Followers&logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/PLXVST?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/PLXVST?color=yellow&label=Stars&logo=github&style=for-the-badge" />
-  </a>
 </p>
 
 ---
