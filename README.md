@@ -11,19 +11,20 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
+
 <pre>
-# Hello, Friend.
+ ~> <strong>Hello Friend</strong>
 
 I'm PLXVST
 Senior Pentester, Security Auditor, and Malware Analyst in the making.   
 
-## Objective
+ ~> <strong>Objective</strong>
 To infiltrate and protect the systems that shape our digital world.  
 My aim is to join and empower a red or blue team—where impact matters.  
 The rules are written in packets, and I read between the lines.
 ---
 
-## Skills
+ ~> <strong>Skills</strong>
 
 | Skill                                         | Associated Project                                                            |
 |-----------------------------------------------|-------------------------------------------------------------------------------|
@@ -34,4 +35,4 @@ The rules are written in packets, and I read between the lines.
 | Incident Response & Host Recon                   | [Takedown](https://tryhackme.com/room/takedown)                            |
 
 
-  </pre>
+</pre>
