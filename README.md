@@ -19,7 +19,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### THM Achivments 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-gold.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" />
