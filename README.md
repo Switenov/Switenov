@@ -1,4 +1,4 @@
-# ~> PRX
+# PRX
 
 **`Security Researcher / Digital Intrusion Artist`**
 
