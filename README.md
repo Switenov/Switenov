@@ -8,7 +8,6 @@
 
 ## Whoami
 I'm PRX/PLXVST
-Not here for fame. Just results.
 Senior Pentester, Security Auditor, and Malware Analyst in the making.   
 
 ---
