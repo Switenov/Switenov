@@ -6,6 +6,9 @@ i exploit systems so others can sleep at night.
 top 1% @ TryHackMe
 no buzzwords. no fluff. just packets, payloads, persistence.
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/PRX.png)](https://tryhackme.com/p/PRX)
+
+
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
     <img alt="TryHackMe Profile" src="https://img.shields.io/badge/-TryHackMe%20Profile-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
