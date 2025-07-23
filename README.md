@@ -6,8 +6,6 @@ i exploit systems so others can sleep at night.
 top 1% @ TryHackMe — i don’t build walls, i test if they break.  
 no buzzwords. no fluff. just packets, payloads, persistence.  
 
----
-
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
     <img alt="TryHackMe Profile" src="https://img.shields.io/badge/-TryHackMe%20Profile-darkred?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
@@ -16,8 +14,6 @@ no buzzwords. no fluff. just packets, payloads, persistence.
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-black?&style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
-
----
 
 ### THM Achivments 
 
