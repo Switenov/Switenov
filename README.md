@@ -1,7 +1,6 @@
 # Hello, Friend.
 
-> _“Control is an illusion.”_  
-> _“We are finally awake.”_
+> _“Thats lame, maybe i should give u a name”_
 
 <a href="https://tryhackme.com/p/PRX"><img src="https://img.shields.io/badge/-TryHackMe_PROFILE%25-darkred?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
