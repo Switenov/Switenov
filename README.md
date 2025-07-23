@@ -40,14 +40,15 @@ The rules are written in packets, and I read between the lines.
 
 #### Network & Recon
 <div>
-  <img src="https://img.shields.io/badge/-Nmap-0055A4?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Masscan-FF3366?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Amass-8800AA?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shodan-000000?&style=for-the-badge&logo=shodan&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ffuf-FF4444?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gobuster-444444?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-3C3C3C?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-46587C?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Masscan-5E5E5E?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amass-4B4B4B?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shodan-1A1A1A?&style=for-the-badge&logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ffuf-6B6B6B?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gobuster-5A5A5A?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
+
 
 #### Web & App Testing
 <div>
