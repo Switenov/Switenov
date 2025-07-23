@@ -35,6 +35,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/webbed.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/ohsint.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/firstfour.svg" />
+<img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
 <br />
 
 #
