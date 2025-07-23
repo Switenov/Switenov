@@ -8,10 +8,10 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
-    <img alt="TryHackMe Profile" src="https://img.shields.io/badge/-TryHackMe%20Profile-darkred?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+    <img alt="TryHackMe Profile" src="https://img.shields.io/badge/-TryHackMe%20Profile-d46a6a?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   </a>
   <a href="https://instagram.com/prx.hacks">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-black?&style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-f7c6d4?&style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
