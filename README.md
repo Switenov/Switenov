@@ -17,7 +17,7 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/PRX.png?cachebust=1" alt="TryHackMe Badge"/>
 
-<hr style="margin-top: 40px; margin-bottom: 20px;" />
+<div style="margin-top:40px;"></div>
 
 ### THM Achivments 
 
@@ -42,7 +42,7 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 
 <br clear="left"/>
 
-<hr style="margin-top: 40px; margin-bottom: 30px;" />
+<div style="margin-top:40px;"></div>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/08/b5/d3/08b5d3d8fa6e372406f51f950558487c.jpg" style="width:100%; height:auto;" />
