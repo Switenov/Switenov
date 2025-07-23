@@ -21,15 +21,6 @@ Senior Pentester, Security Auditor, and Malware Analyst in the making.
 To infiltrate and protect the systems that shape our digital world.  
 My aim is to join and empower a red or blue team—where impact matters.  
 The rules are written in packets, and I read between the lines.
-
-<a href="https://tryhackme.com/p/PRX">
-  <img src="https://img.shields.io/badge/-TryHackMe_Profile-3C0D0D?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/prx.hacks">
-  <img src="https://img.shields.io/badge/-Instagram_Profile-1A1A1A?&style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-
 ---
 
 ## Skills
