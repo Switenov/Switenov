@@ -15,6 +15,7 @@ no buzzwords. no fluff. just packets, payloads, persistence.
   </a>
 </p>
 
+<hr style="margin-top: 40px; margin-bottom: 20px;" />
 
 ### THM Achivments 
 
