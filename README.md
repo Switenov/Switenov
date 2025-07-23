@@ -3,32 +3,6 @@
   <img src="https://i.pinimg.com/1200x/46/57/fd/4657fd84c1d4dd852c864cc731c6a64c.jpg" alt="banner" style="border-radius: 100px;" />
 </p>
 
-
-<style>
-.typing {
-  width: 22ch;
-  animation: typing 3s steps(22), blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 2px solid #fff;
-  font-family: monospace;
-  font-size: 1.2em;
-  color: #fff;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 22ch }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-</style>
-
-<div class="typing">Hello, friend. Welcome back.</div>
-
-
 # Hello, Friend.
 
 I'm PLXVST
