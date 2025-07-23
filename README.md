@@ -1,8 +1,8 @@
 
 <p>
-  <img src="![5c93284d26b01f87d3eb4e023068fda7](https://github.com/user-attachments/assets/b87a5f93-296e-457e-b8ac-90acac1fc194)
-" alt="banner" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/1200x/5c/93/28/5c93284d26b01f87d3eb4e023068fda7.jpg" alt="banner" style="border-radius: 100px;" />
 </p>
+
 
 
 # Hello, Friend.
