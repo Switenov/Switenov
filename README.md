@@ -1,9 +1,7 @@
 
 <p>
-  <img src="https://i.pinimg.com/1200x/5c/93/28/5c93284d26b01f87d3eb4e023068fda7.jpg" alt="banner" style="border-radius: 100px;" />
+  <img src="https://i.pinimg.com/1200x/46/57/fd/4657fd84c1d4dd852c864cc731c6a64c.jpg" alt="banner" style="border-radius: 100px;" />
 </p>
-
-
 
 # Hello, Friend.
 
