@@ -36,6 +36,7 @@ i exploit systems so others can sleep at night.
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber4.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/linuxprivesc.svg" />
+<img align="left" width="80px" style="padding-right:10px;" src="https://assets.tryhackme.com/img/badges/linux.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/mrrobot.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/hashcracker.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/blue.svg" />
