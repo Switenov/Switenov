@@ -60,5 +60,5 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 | Scripting & Automation | Custom tool development and workflow automation         | Expert       |
 | Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
 
-> Operate silently. Execute precisely. Vanish without trace.
+>Vanish without trace.
 
