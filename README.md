@@ -6,7 +6,7 @@
 # PRX
 
 i exploit systems so others can sleep at night.  
-no buzzwords. no fluff. just packets, payloads, persistence.
+Vanish without trace.
 
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
@@ -60,5 +60,4 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 | Scripting & Automation | Custom tool development and workflow automation         | Expert       |
 | Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
 
->Vanish without trace.
 
