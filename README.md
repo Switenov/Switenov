@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Plxvst/Plxvst/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f31323030782f30332f62372f63302f30336237633037386436653531613437316530373864646137306661373661352e6a7067.jpg?raw=true" alt="image" style="max-width:100%; height:auto;" />
+  <img src="https://github.com/Plxvst/Plxvst/blob/main/banner.jpg?raw=true" alt="image" style="max-width:100%; height:auto;" />
 </p>
 
 
