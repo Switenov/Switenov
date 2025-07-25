@@ -5,7 +5,7 @@
 
 # Hello Friend.
 
-i exploit systems so others can sleep at night. 
+That’s lame. Maybe I should give you a name, but that’s a slippery slope. You’re only in my head. We have to remember that. Shit.
 
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
