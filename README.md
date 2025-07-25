@@ -48,9 +48,6 @@ Vanish without trace.
 
 <br clear="left"/>
 
-<hr style="border: 1px solid #8B0000;" />
-
-
 ## Skills
 
 | Skill                 | Description                                               | Level        |
