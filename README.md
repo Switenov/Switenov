@@ -5,8 +5,6 @@
 
 # PRX
 
-**`Senior Pentester, Security Auditor & Malware Analysis ㅤ`**
-
 i exploit systems so others can sleep at night.  
 no buzzwords. no fluff. just packets, payloads, persistence.
 
