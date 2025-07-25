@@ -60,4 +60,28 @@ Vanish without trace.
 | Scripting & Automation | Custom tool development and workflow automation         | Expert       |
 | Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
 
+### Tools
+
+* Arch Linux (custom setup, minimal, fast)
+* Templ (automation & infra templating)
+* Google Workspace (Drive, Docs, Sheets, Slides)
+* Markdown (documentation, notes, reports)
+* Tcpdump (raw packet capture)
+* Wireshark (deep traffic analysis)
+* Linux OS (daily driver, multiple distros)
+* SQL (database interrogation & manipulation)
+* Chronicle (security telemetry, analysis)
+* Splunk (log hunting, incident response)
+* Suricata (network-based threat detection)
+* Zeek (network security monitoring)
+* Python (custom tooling, automation, exploits)
+* Bash / Zsh (scripting, environment control)
+* Rust (when speed + safety matters)
+* Burp Suite (web app pentesting)
+* Nmap (network mapping & service discovery)
+* FFUF / Dirsearch (bruteforcing endpoints)
+* Ghidra (reverse engineering)
+* CyberChef (data transformation & decoding)
+* Tmux (session management, multitasking)
+* Git (version control, change tracking)
 
