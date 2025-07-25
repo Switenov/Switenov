@@ -60,28 +60,42 @@ Vanish without trace.
 | Scripting & Automation | Custom tool development and workflow automation         | Expert       |
 | Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
 
-### Tools
+### Tools  
+Several tools that I use regularly:
 
-* Arch Linux (custom setup, minimal, fast)
-* Templ (automation & infra templating)
-* Google Workspace (Drive, Docs, Sheets, Slides)
-* Markdown (documentation, notes, reports)
-* Tcpdump (raw packet capture)
-* Wireshark (deep traffic analysis)
-* Linux OS (daily driver, multiple distros)
-* SQL (database interrogation & manipulation)
-* Chronicle (security telemetry, analysis)
-* Splunk (log hunting, incident response)
-* Suricata (network-based threat detection)
-* Zeek (network security monitoring)
-* Python (custom tooling, automation, exploits)
-* Bash / Zsh (scripting, environment control)
-* Rust (when speed + safety matters)
-* Burp Suite (web app pentesting)
-* Nmap (network mapping & service discovery)
-* FFUF / Dirsearch (bruteforcing endpoints)
-* Ghidra (reverse engineering)
-* CyberChef (data transformation & decoding)
-* Tmux (session management, multitasking)
-* Git (version control, change tracking)
-
+* Wireshark – packet analysis  
+* nmap – active network scanning  
+* Burp Suite – web app testing  
+* gobuster / ffuf – directory brute-forcing  
+* Metasploit – exploitation framework  
+* sqlmap – SQL injection automation  
+* LinPEAS / WinPEAS – privilege escalation enumeration  
+* BloodHound / SharpHound – AD mapping and attack path analysis  
+* Ghidra – binary reverse engineering  
+* Cutter – GUI for radare2  
+* radare2 – advanced binary analysis  
+* IDA Free – disassembler  
+* impacket – NTLM relays, credential dumps  
+* crackmapexec – network post-exploitation  
+* mimikatz – credential harvesting  
+* hashcat / john – password cracking  
+* seclists / rockyou – wordlists and fuzzing  
+* Hydra – login brute-forcing  
+* enum4linux / smbclient – SMB enumeration  
+* Responder – LLMNR/NBT-NS poisoning  
+* dnsrecon / dig – DNS enumeration  
+* Amass / Sublist3r – subdomain enumeration  
+* theHarvester – OSINT  
+* recon-ng – OSINT automation  
+* nishang / PowerSploit – PowerShell payloads  
+* Chisel – TCP tunneling  
+* Ngrok – external port forwarding  
+* socat – port redirection  
+* tcpdump – traffic capture  
+* mitmproxy – intercepting proxy  
+* Python / Bash – scripting and tool dev  
+* neovim / tmux – terminal environment  
+* Arch Linux – full control, minimal noise  
+* Docker – lab and test environments  
+* Obsidian – knowledge base and notes  
+* Markdown – clean documentation  
