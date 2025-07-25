@@ -59,22 +59,17 @@ i exploit systems so others can sleep at night.
 | Scripting & Automation | Custom tool development and workflow automation         | Expert       |
 | Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
 
+
 ### Tools
 
-| Networking         | Exploitation       | Enumeration         | Cracking           | Scripting / OS      |
-|-------------------|--------------------|---------------------|--------------------|---------------------|
-| Wireshark         | Metasploit         | LinPEAS             | hashcat            | Python              |
-| nmap              | sqlmap             | WinPEAS             | john               | Bash                |
-| tcpdump           | Burp Suite         | enum4linux          | Hydra              | Arch Linux          |
-| mitmproxy         | impacket           | smbclient           | rockyou.txt        | neovim              |
-| dig               | crackmapexec       | dnsrecon            | seclists           | tmux                |
-| socat             | mimikatz           | theHarvester        |                    | Git                 |
-| Ngrok             | Responder          | recon-ng            |                    | Docker              |
-| Chisel            | PowerSploit        | Sublist3r           |                    | Obsidian            |
-
-| Reverse Engineering | OSINT / Discovery | Payload / Tunneling | Misc               |
-|---------------------|-------------------|----------------------|--------------------|
-| Ghidra              | gobuster          | Nishang              | Cutter             |
-| IDA Free            | ffuf              | SharpHound           | radare2            |
-| radare2             | Amass             | Chisel               | Markdown           |
+| Networking | Exploitation | Enumeration | Cracking | Scripting / OS | Reverse Engineering | OSINT / Discovery | Payload / Tunneling | Misc |
+|------------|--------------|-------------|----------|----------------|----------------------|-------------------|----------------------|------|
+| Wireshark  | Metasploit   | LinPEAS     | hashcat  | Python         | Ghidra               | gobuster          | Nishang              | Cutter |
+| nmap       | sqlmap       | WinPEAS     | john     | Bash           | IDA Free             | ffuf              | SharpHound           | radare2 |
+| tcpdump    | Burp Suite   | enum4linux  | Hydra    | Arch Linux     | radare2              | Amass             | Chisel               | Markdown |
+| mitmproxy  | impacket     | smbclient   | rockyou.txt | neovim       |                      |                   |                      |        |
+| dig        | crackmapexec | dnsrecon    | seclists | tmux           |                      |                   |                      |        |
+| socat      | mimikatz     | theHarvester|          | Git            |                      |                   |                      |        |
+| Ngrok      | Responder    | recon-ng    |          | Docker         |                      |                   |                      |        |
+| Chisel     | PowerSploit  | Sublist3r   |          | Obsidian       |                      |                   |                      |        |
 
