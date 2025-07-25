@@ -11,7 +11,7 @@ That’s lame. Maybe I should give you a name, but that’s a slippery slope. Yo
   <a href="https://tryhackme.com/p/PRX">
     <img alt="TryHackMe Profile" src="https://img.shields.io/badge/-TryHackMe%20Profile-8B0000?&style=for-the-badge&logo=TryHackMe&logoColor=FFFFFF" />
   </a>
-  <a href="https://instagram.com/prx.hacks">
+  <a href="https://instagram.com/plxvst">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-8B0000?&style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
 </p>
