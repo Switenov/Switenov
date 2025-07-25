@@ -47,3 +47,18 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/howthewebworks.svg" />
 
 <br clear="left"/>
+
+## TryHackMe Top 1% Skillset
+
+| Skill                 | Description                                               | Level        |
+|----------------------|-----------------------------------------------------------|--------------|
+| Reconnaissance       | Deep enumeration and intel gathering across all surfaces  | Expert       |
+| Exploitation         | Identifying and leveraging vulnerabilities with precision | Advanced     |
+| Privilege Escalation | Gaining elevated access through custom exploits           | Mastery      |
+| Reverse Engineering  | Analyzing binaries, decoding behavior, bypassing controls | Proficient   |
+| Web Application Hacking | Full-stack vulnerability analysis and exploitation     | Advanced     |
+| Scripting & Automation | Custom tool development and workflow automation         | Expert       |
+| Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
+
+> Operate silently. Execute precisely. Vanish without trace.
+
