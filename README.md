@@ -3,7 +3,7 @@
 </p>
 
 
-# Hellow Friend.
+# Hello Friend.
 
 i exploit systems so others can sleep at night. 
 
