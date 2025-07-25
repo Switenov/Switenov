@@ -50,15 +50,15 @@ i exploit systems so others can sleep at night.
 
 ## Skills
 
-| Skill                 | Description                                               | Level        |
-|----------------------|-----------------------------------------------------------|--------------|
-| Reconnaissance       | Deep enumeration and intel gathering across all surfaces  | Expert       |
-| Exploitation         | Identifying and leveraging vulnerabilities with precision | Advanced     |
-| Privilege Escalation | Gaining elevated access through custom exploits           | Mastery      |
-| Reverse Engineering  | Analyzing binaries, decoding behavior, bypassing controls | Proficient   |
-| Web Application Hacking | Full-stack vulnerability analysis and exploitation     | Advanced     |
-| Scripting & Automation | Custom tool development and workflow automation         | Expert       |
-| Reporting & Documentation | Clear, structured, technical write-ups               | Professional |
+| Skill                 | Description                                               | 
+|----------------------|-----------------------------------------------------------|
+| Reconnaissance       | Deep enumeration and intel gathering across all surfaces  |
+| Exploitation         | Identifying and leveraging vulnerabilities with precision |
+| Privilege Escalation | Gaining elevated access through custom exploits           | 
+| Reverse Engineering  | Analyzing binaries, decoding behavior, bypassing controls | 
+| Web Application Hacking | Full-stack vulnerability analysis and exploitation     |
+| Scripting & Automation | Custom tool development and workflow automation         |
+| Reporting & Documentation | Clear, structured, technical write-ups               |
 
 
 ### Tools
