@@ -3,7 +3,6 @@
 **`Senior Pentester, Security Auditor & Malware Analysis ㅤ`**
 
 i exploit systems so others can sleep at night.  
-top 1% @ TryHackMe
 no buzzwords. no fluff. just packets, payloads, persistence.
 
 <p align="left">
