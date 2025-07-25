@@ -7,10 +7,10 @@ no buzzwords. no fluff. just packets, payloads, persistence.
 
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
-    <img alt="TryHackMe Profile" src="https://img.shields.io/badge/TryHackMe%20Profile-8B0000?style=flat-square&logo=TryHackMe&logoColor=000000&labelColor=8B0000&color=8B0000" />
+    <img alt="TryHackMe Profile" src="https://img.shields.io/badge/-TryHackMe%20Profile-8B0000?&style=for-the-badge&logo=TryHackMe&logoColor=FFFFFF" />
   </a>
   <a href="https://instagram.com/prx.hacks">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-8B0000?style=flat-square&logo=instagram&logoColor=000000&labelColor=8B0000&color=8B0000" />
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-8B0000?&style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
 </p>
 
