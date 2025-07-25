@@ -61,7 +61,7 @@ i exploit systems so others can sleep at night.
 | Reporting & Documentation | Clear, structured, technical write-ups               |
 
 
-### Tools
+## Tools
 
 | Networking | Exploitation | Enumeration | Cracking | Scripting / OS | Reverse Engineering | OSINT / Discovery | Payload / Tunneling | Misc |
 |------------|--------------|-------------|----------|----------------|----------------------|-------------------|----------------------|------|
