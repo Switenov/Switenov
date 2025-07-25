@@ -22,7 +22,7 @@ i exploit systems so others can sleep at night.
 
 <div style="margin-top:40px;"></div>
 
-### THM Achivments 
+### THM Badges 
 
 
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
