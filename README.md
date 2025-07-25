@@ -5,8 +5,7 @@
 
 # PRX
 
-i exploit systems so others can sleep at night.  
-Vanish without trace.
+i exploit systems so others can sleep at night. 
 
 <p align="left">
   <a href="https://tryhackme.com/p/PRX">
