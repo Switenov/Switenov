@@ -27,7 +27,7 @@
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-gold.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-sapphire.svg" />
+<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-saphire.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest1.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aocsidequest5.svg" />
