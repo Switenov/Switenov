@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Plxvst/Plxvst/blob/main/banner.jpg?raw=true" alt="image" style="max-width:100%; height:auto;" />
-</p>
-
 
 # Hello Friend.
 
