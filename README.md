@@ -19,31 +19,31 @@
 
 ## THM Badges 
 
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-diamond.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-saphire.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-gold.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest1.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aocsidequest5.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber5.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber4.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/linuxprivesc.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://assets.tryhackme.com/img/badges/linux.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/mrrobot.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/hashcracker.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/blue.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/webbed.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/ohsint.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/firstfour.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/howthewebworks.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/overpass_badge.svg" />]
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/owasptop10.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak30.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-diamond.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-saphire.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-gold.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-bronze.svg"/>
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5sidequest1.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aocsidequest5.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber5.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/aoc5.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/adventofcyber4.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/linuxprivesc.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://assets.tryhackme.com/img/badges/linux.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/mrrobot.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/hashcracker.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/blue.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/webbed.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/ohsint.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/firstfour.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/howthewebworks.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/overpass_badge.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/owasptop10.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
+<img align="left" width="20px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak30.svg" />
 
 
 <br clear="left"/>
