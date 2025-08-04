@@ -19,7 +19,7 @@
 
 ## THM Badges 
 
-<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-saphire.svg" />
+<img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-diamond.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-saphire.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-gold.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/league-silver.svg" />
