@@ -13,7 +13,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/PRX.png?cachebust=5" alt="TryHackMe Badge"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PRX.png?cachebust=6" alt="TryHackMe Badge"/>
 
 <div style="margin-top:40px;"></div>
 
