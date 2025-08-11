@@ -42,6 +42,7 @@
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/howthewebworks.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/overpass_badge.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/owasptop10.svg" />
+<img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak3.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak30.svg" />
 
