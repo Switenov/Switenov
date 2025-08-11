@@ -58,7 +58,6 @@
 | Reverse Engineering  | Analyzing binaries, decoding behavior, bypassing controls | 
 | Web Application Hacking | Full-stack vulnerability analysis and exploitation     |
 | Scripting & Automation | Custom tool development and workflow automation         |
-| Reporting & Documentation | Clear, structured, technical write-ups               |
 
 
 ## Tools
