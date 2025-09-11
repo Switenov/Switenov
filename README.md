@@ -45,6 +45,7 @@
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak3.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak7.svg" />
 <img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/streak30.svg" />
+<img align="left" width="60px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/investigations_badge.svg" />
 
 
 <br clear="left"/>
