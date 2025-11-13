@@ -3,9 +3,7 @@
 
 
 <p align="left">
-  <a href="https://tryhackme.com/p/PRX" target="_blank" rel="noopener noreferrer">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/p0.png" alt="TryHackMe Badge" style="vertical-align:middle; border:0;">
-  </a>
+  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/p0.png)](https://tryhackme.com/p/PRX)
   <a href="https://instagram.com/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-8B0000?&style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
@@ -13,7 +11,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/PRX.png?cachebust=10" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/p0.png" alt="TryHackMe Badge" style="vertical-align:middle; border:0;">
 
 <div style="margin-top:40px;"></div>
 
